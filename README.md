@@ -124,4 +124,4 @@ while not done:
         else:
             print(" El agente cayó en un agujero.")
 
-env_visual.close()# Proyecto-de-Aprendizaje-por-Refuerzo-FrozenLake
+env_visual.close()
